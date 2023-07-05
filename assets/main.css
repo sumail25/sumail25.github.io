@@ -461,7 +461,8 @@ video {
 }
 
 .h-screen {
-    height: 100vh
+    height: 100vh;
+    overflow: auto;
 }
 
 .w-32 {
@@ -481,7 +482,8 @@ video {
 }
 
 .w-screen {
-    width: 100vw
+    width: 100vw;
+    overflow: auto;
 }
 
 .max-w-lg {
