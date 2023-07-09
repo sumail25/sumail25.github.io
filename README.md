@@ -1,4 +1,4 @@
-### The Show Must Go On
+# The Show Must Go On
 
 ---
 
@@ -10,3 +10,4 @@ TODO:
 1. Add projects
 2. Add zh-cn
 3. Add zh-cn Resume
+4. Display issue on mobile
